@@ -11,3 +11,7 @@ Source code materi Mata Kuliah Pemrograman Web V mengunakan Framework. Membuat C
 
 - Category
 - Product
+
+## Reference
+- <a href="https://laravel.com/docs/10.x">Laravel</a>
+- <a href="https://github.com/laravel/ui">Larave UI</a>
